@@ -1,0 +1,13 @@
+{
+  "name": "mbti-edgeone",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "MBTI 性格测试 - EdgeOne Pages 部署版",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "edgeone pages dev"
+  },
+  "dependencies": {
+    "nunjucks": "^3.2.4"
+  }
+}

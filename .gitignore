@@ -1,2 +1,10 @@
 .DS_Store
 *.pyc
+__pycache__/
+.venv/
+
+# Node.js
+node_modules/
+
+# 构建产物（EdgeOne Pages 会自动构建，无需提交）
+dist/
